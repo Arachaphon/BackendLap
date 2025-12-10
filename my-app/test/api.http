@@ -109,7 +109,7 @@ Content-Type: application/json
     "name" : "Trainee"
 }
 ###
-DELETE http://localhost:3000/api/roles/4
+DELETE http://localhost:3000/api/roles/5
 
 ###
 DELETE http://localhost:3000/api/roles/99
